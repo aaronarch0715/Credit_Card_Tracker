@@ -35,7 +35,7 @@ Python 3.9 이상이 필요합니다.
 ### Windows (PowerShell)
 
 ```powershell
-cd C:\Learning_python\Credit_Card_Tracker
+cd C:\Python_Projects\Credit_Card_Tracker
 python -m venv .venv
 .\.venv\Scripts\Activate.ps1          # 실행 정책 오류 시: Set-ExecutionPolicy -Scope CurrentUser RemoteSigned
 pip install -r requirements.txt
